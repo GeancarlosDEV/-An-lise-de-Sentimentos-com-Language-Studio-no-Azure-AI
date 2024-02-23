@@ -1,0 +1,2407 @@
+[
+    {
+        "Id": "d54c79f34da348ae94c1d0099ed0a91a",
+        "RecognitionStatus": 0,
+        "Offset": 3500000,
+        "Duration": 262000000,
+        "Channel": 0,
+        "DisplayText": "Olá, tudo bem? Meu nome é Lucas, eu falo aqui de Scott, de pouso, pô, estou entrando em contato com você, pois eu verifiquei ali no nosso Instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto, tá bom? Então, nesse caso, eu queria saber se você tem alguma dúvida ainda sobre a formação, se você já conheceu o passo a passo, tá, e se você tiver qualquer questão, qualquer questionamento, você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada, tá bom?",
+        "NBest": [
+            {
+                "Confidence": 0.7827252,
+                "Lexical": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "ITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "MaskedITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Display": "Olá, tudo bem? Meu nome é Lucas, eu falo aqui de Scott, de pouso, pô, estou entrando em contato com você, pois eu verifiquei ali no nosso Instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto, tá bom? Então, nesse caso, eu queria saber se você tem alguma dúvida ainda sobre a formação, se você já conheceu o passo a passo, tá, e se você tiver qualquer questão, qualquer questionamento, você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada, tá bom?",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 3500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 9500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 11500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 13900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lucas",
+                        "Offset": 17500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 21900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falo",
+                        "Offset": 22700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 24700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "scott",
+                        "Offset": 27100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouso",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pô",
+                        "Offset": 38700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 39500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "entrando",
+                        "Offset": 41900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 44300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "contato",
+                        "Offset": 45100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 48300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 49500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pois",
+                        "Offset": 52700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "verifiquei",
+                        "Offset": 55500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 59100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 60300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 61100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "instagram",
+                        "Offset": 63100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 71100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 73900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "chamou",
+                        "Offset": 75900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 81100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "quis",
+                        "Offset": 82300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 84300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 86700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouquinho",
+                        "Offset": 87500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 91100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 94300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 99900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 100300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 105500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 106700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "piloto",
+                        "Offset": 107900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 115900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 120700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 122300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caso",
+                        "Offset": 125500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 127900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 128700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 130700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 133100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 134300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "alguma",
+                        "Offset": 139100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "dúvida",
+                        "Offset": 143100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "ainda",
+                        "Offset": 148300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 150300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 152700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 153100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 157500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 158700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "já",
+                        "Offset": 160700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "conheceu",
+                        "Offset": 162300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 167100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 167500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 169900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 170700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 175100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 180300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 181500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 182300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tiver",
+                        "Offset": 185100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 190700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "questão",
+                        "Offset": 197500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 201900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "questionamento",
+                        "Offset": 206300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 213100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 215500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "colocar",
+                        "Offset": 220300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 223900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "embaixo",
+                        "Offset": 225100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 230300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 231500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 231900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 233900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 235900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "auxiliar",
+                        "Offset": 236700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nessa",
+                        "Offset": 244300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nova",
+                        "Offset": 251100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 253900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 261500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 262700000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7827252,
+                "Lexical": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "ITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "MaskedITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Display": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 3500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 9500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 11500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 13900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lucas",
+                        "Offset": 17500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 21900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falo",
+                        "Offset": 22700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 24700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "scott",
+                        "Offset": 27100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouso",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pô",
+                        "Offset": 38700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 39500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "entrando",
+                        "Offset": 41900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 44300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "contato",
+                        "Offset": 45100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 48300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 49500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pois",
+                        "Offset": 52700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "verifiquei",
+                        "Offset": 55500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 59100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 60300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 61100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "instagram",
+                        "Offset": 63100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 71100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 73900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "chamou",
+                        "Offset": 75900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 81100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "quis",
+                        "Offset": 82300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 84300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 86700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouquinho",
+                        "Offset": 87500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 91100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 94300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 99900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 100300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 105500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 106700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "piloto",
+                        "Offset": 107900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 115900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 120700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 122300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caso",
+                        "Offset": 125500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 127900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 128700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 130700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 133100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 134300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "alguma",
+                        "Offset": 139100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "dúvida",
+                        "Offset": 143100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "ainda",
+                        "Offset": 148300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 150300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 152700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 153100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 157500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 158700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "já",
+                        "Offset": 160700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "conheceu",
+                        "Offset": 162300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 167100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 167500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 169900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 170700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 175100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 180300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 181500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 182300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tiver",
+                        "Offset": 185100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 190700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "questão",
+                        "Offset": 197500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 201900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "questionamento",
+                        "Offset": 206300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 213100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 215500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "colocar",
+                        "Offset": 220300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 223900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "embaixo",
+                        "Offset": 225100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 230300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 231500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 231900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 233900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 235900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "auxiliar",
+                        "Offset": 236700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nessa",
+                        "Offset": 244300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nova",
+                        "Offset": 251100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 253900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 261500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 262700000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7827252,
+                "Lexical": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "ITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "MaskedITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Display": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 3500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 9500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 11500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 13900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lucas",
+                        "Offset": 17500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 21900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falo",
+                        "Offset": 22700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 24700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "scott",
+                        "Offset": 27100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouso",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pô",
+                        "Offset": 38700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 39500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "entrando",
+                        "Offset": 41900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 44300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "contato",
+                        "Offset": 45100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 48300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 49500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pois",
+                        "Offset": 52700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "verifiquei",
+                        "Offset": 55500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 59100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 60300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 61100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "instagram",
+                        "Offset": 63100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 71100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 73900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "chamou",
+                        "Offset": 75900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 81100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "quis",
+                        "Offset": 82300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 84300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 86700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouquinho",
+                        "Offset": 87500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 91100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 94300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 99900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 100300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 105500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 106700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "piloto",
+                        "Offset": 107900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 115900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 120700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 122300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caso",
+                        "Offset": 125500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 127900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 128700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 130700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 133100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 134300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "alguma",
+                        "Offset": 139100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "dúvida",
+                        "Offset": 143100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "ainda",
+                        "Offset": 148300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 150300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 152700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 153100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 157500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 158700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "já",
+                        "Offset": 160700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "conheceu",
+                        "Offset": 162300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 167100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 167500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 169900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 170700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 175100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 180300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 181500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 182300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tiver",
+                        "Offset": 185100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 190700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "questão",
+                        "Offset": 197500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 201900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "questionamento",
+                        "Offset": 206300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 213100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 215500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "colocar",
+                        "Offset": 220300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 223900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "embaixo",
+                        "Offset": 225100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 230300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 231500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 231900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 233900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 235900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "auxiliar",
+                        "Offset": 236700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nessa",
+                        "Offset": 244300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nova",
+                        "Offset": 251100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 253900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 261500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 262700000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7827251,
+                "Lexical": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "ITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "MaskedITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Display": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 3500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 9500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 11500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 13900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lucas",
+                        "Offset": 17500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 21900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falo",
+                        "Offset": 22700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 24700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "scott",
+                        "Offset": 27100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouso",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pô",
+                        "Offset": 38700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 39500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "entrando",
+                        "Offset": 41900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 44300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "contato",
+                        "Offset": 45100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 48300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 49500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pois",
+                        "Offset": 52700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "verifiquei",
+                        "Offset": 55500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 59100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 60300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 61100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "instagram",
+                        "Offset": 63100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 71100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 73900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "chamou",
+                        "Offset": 75900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 81100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "quis",
+                        "Offset": 82300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 84300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 86700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouquinho",
+                        "Offset": 87500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 91100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 94300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 99900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 100300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 105500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 106700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "piloto",
+                        "Offset": 107900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 115900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 120700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 122300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caso",
+                        "Offset": 125500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 127900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 128700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 130700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 133100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 134300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "alguma",
+                        "Offset": 139100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "dúvida",
+                        "Offset": 143100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "ainda",
+                        "Offset": 148300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 150300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 152700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 153100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 157500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 158700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "já",
+                        "Offset": 160700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "conheceu",
+                        "Offset": 162300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 167100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 167500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 169900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 170700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 175100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 180300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 181500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 182300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tiver",
+                        "Offset": 185100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 190700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "questão",
+                        "Offset": 197500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 201900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "questionamento",
+                        "Offset": 206300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 213100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 215500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "colocar",
+                        "Offset": 220300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 223900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "embaixo",
+                        "Offset": 225100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 230300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 231500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 231900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 233900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 235900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "auxiliar",
+                        "Offset": 236700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nessa",
+                        "Offset": 244300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nova",
+                        "Offset": 251100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 253900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 261500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 262700000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7827252,
+                "Lexical": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "ITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "MaskedITN": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Display": "olá tudo bem meu nome é lucas eu falo aqui de scott de pouso pô estou entrando em contato com você pois eu verifiquei ali no nosso instagram que você nos chamou e quis saber um pouquinho mais sobre a formação de um piloto tá bom então nesse caso eu queria saber se você tem alguma dúvida ainda sobre a formação se você já conheceu o passo a passo tá e se você tiver qualquer questão qualquer questionamento você pode colocar aqui embaixo que a gente vai te auxiliar nessa nova jornada tá bom",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 3500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 9500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 11500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 13900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 15100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 17100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lucas",
+                        "Offset": 17500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 21900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falo",
+                        "Offset": 22700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 24700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "scott",
+                        "Offset": 27100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouso",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pô",
+                        "Offset": 38700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 39500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "entrando",
+                        "Offset": 41900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 44300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "contato",
+                        "Offset": 45100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 48300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 49500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pois",
+                        "Offset": 52700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "verifiquei",
+                        "Offset": 55500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 59100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 60300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 61100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "instagram",
+                        "Offset": 63100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 71100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 73900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "chamou",
+                        "Offset": 75900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 81100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "quis",
+                        "Offset": 82300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 84300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 86700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "pouquinho",
+                        "Offset": 87500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 91100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 94300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 99900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 100300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 105500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 106700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "piloto",
+                        "Offset": 107900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 115900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 120700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 122300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "caso",
+                        "Offset": 125500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 127900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 128700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 130700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 133100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 134300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "alguma",
+                        "Offset": 139100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "dúvida",
+                        "Offset": 143100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "ainda",
+                        "Offset": 148300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sobre",
+                        "Offset": 150300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 152700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "formação",
+                        "Offset": 153100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 157500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 158700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "já",
+                        "Offset": 160700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "conheceu",
+                        "Offset": 162300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 167100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 167500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 169900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "passo",
+                        "Offset": 170700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 175100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 180300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 181500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 182300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tiver",
+                        "Offset": 185100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 190700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "questão",
+                        "Offset": 197500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "qualquer",
+                        "Offset": 201900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "questionamento",
+                        "Offset": 206300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 213100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 215500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "colocar",
+                        "Offset": 220300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 223900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "embaixo",
+                        "Offset": 225100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 230300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 231500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 231900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 233900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 235900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "auxiliar",
+                        "Offset": 236700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nessa",
+                        "Offset": 244300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nova",
+                        "Offset": 251100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 253900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 261500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 262700000,
+                        "Duration": 2800000
+                    }
+                ]
+            }
+        ]
+    }
+]
